@@ -1,6 +1,7 @@
 package com.model;
 
 import java.io.IOException;
+import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -22,7 +23,7 @@ public class AutoITDemo
 	 driver.manage().window().maximize();
 	   
 	 // page loaded
-	   driver.manage().timeouts().pageloaded(15,Timeunit.SECONDS);
+	   driver.manage().timeouts().pageLoadTimeout(15,TimeUnit.SECONDS);
 	 
 	 // To click on upload button
 	 driver.findElement(By.xpath("//input[@type='File']")).click();
