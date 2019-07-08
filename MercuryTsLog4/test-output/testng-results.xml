@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60509" started-at="2019-06-20T05:47:37Z" finished-at="2019-06-20T05:48:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60509" started-at="2019-06-20T05:47:37Z" finished-at="2019-06-20T05:48:38Z">
+      <class name="log4j.mercury.MercurtTsLog4j">
+        <test-method status="PASS" signature="oenBrowser()[pri:0, instance:log4j.mercury.MercurtTsLog4j@15975490]" name="oenBrowser" is-config="true" duration-ms="16079" started-at="2019-06-20T11:17:21Z" finished-at="2019-06-20T11:17:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oenBrowser -->
+        <test-method status="PASS" signature="enterUrlApplication()[pri:0, instance:log4j.mercury.MercurtTsLog4j@15975490]" name="enterUrlApplication" is-config="true" duration-ms="5781" started-at="2019-06-20T11:17:37Z" finished-at="2019-06-20T11:17:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUrlApplication -->
+        <test-method status="PASS" signature="maximizeBrowser()[pri:0, instance:log4j.mercury.MercurtTsLog4j@15975490]" name="maximizeBrowser" is-config="true" duration-ms="1665" started-at="2019-06-20T11:17:43Z" finished-at="2019-06-20T11:17:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizeBrowser -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:log4j.mercury.MercurtTsLog4j@15975490]" name="getAllCookies" is-config="true" duration-ms="76" started-at="2019-06-20T11:17:45Z" finished-at="2019-06-20T11:17:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="loginwithvalidds()[pri:1, instance:log4j.mercury.MercurtTsLog4j@15975490]" name="loginwithvalidds" duration-ms="47922" started-at="2019-06-20T11:17:45Z" finished-at="2019-06-20T11:18:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithvalidds -->
+        <test-method status="PASS" signature="capatureScrrenshot()[pri:0, instance:log4j.mercury.MercurtTsLog4j@15975490]" name="capatureScrrenshot" is-config="true" duration-ms="656" started-at="2019-06-20T11:18:33Z" finished-at="2019-06-20T11:18:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capatureScrrenshot -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:log4j.mercury.MercurtTsLog4j@15975490]" name="getAllCookies" is-config="true" duration-ms="17" started-at="2019-06-20T11:18:34Z" finished-at="2019-06-20T11:18:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="loginwithinvalidds()[pri:2, instance:log4j.mercury.MercurtTsLog4j@15975490]" name="loginwithinvalidds" duration-ms="3299" started-at="2019-06-20T11:18:34Z" finished-at="2019-06-20T11:18:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithinvalidds -->
+        <test-method status="PASS" signature="capatureScrrenshot()[pri:0, instance:log4j.mercury.MercurtTsLog4j@15975490]" name="capatureScrrenshot" is-config="true" duration-ms="418" started-at="2019-06-20T11:18:37Z" finished-at="2019-06-20T11:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capatureScrrenshot -->
+        <test-method status="PASS" signature="deleteAllCookies()[pri:0, instance:log4j.mercury.MercurtTsLog4j@15975490]" name="deleteAllCookies" is-config="true" duration-ms="240" started-at="2019-06-20T11:18:38Z" finished-at="2019-06-20T11:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCookies -->
+        <test-method status="PASS" signature="dbConnectionClosed()[pri:0, instance:log4j.mercury.MercurtTsLog4j@15975490]" name="dbConnectionClosed" is-config="true" duration-ms="1" started-at="2019-06-20T11:18:38Z" finished-at="2019-06-20T11:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbConnectionClosed -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:log4j.mercury.MercurtTsLog4j@15975490]" name="closeDriver" is-config="true" duration-ms="223" started-at="2019-06-20T11:18:38Z" finished-at="2019-06-20T11:18:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- log4j.mercury.MercurtTsLog4j -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

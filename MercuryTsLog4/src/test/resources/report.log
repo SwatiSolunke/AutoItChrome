@@ -1,0 +1,21 @@
+2019-04-20 15:08:55 INFO  MercurtTsLog4j:115 - chrome browser open successfully
+2019-04-20 15:08:59 INFO  MercurtTsLog4j:100 - URL is entered successfully
+2019-04-20 15:09:01 INFO  MercurtTsLog4j:86 - maximizeBrowser is successfully 
+2019-04-20 15:09:08 WARN  MercurtTsLog4j:93 - delete all cookies
+2019-04-20 15:09:08 INFO  MercurtTsLog4j:106 - dbConnectionClosed
+2019-04-20 15:12:29 INFO  MercurtTsLog4j:113 - chrome browser open successfully
+2019-04-20 15:12:32 INFO  MercurtTsLog4j:98 - URL is entered successfully
+2019-04-20 15:12:34 INFO  MercurtTsLog4j:84 - maximizeBrowser is successfully 
+2019-04-20 15:13:23 INFO  MercurtTsLog4j:41 - User has successfully login into Mercury Tours application
+2019-04-20 15:13:23 DEBUG MercurtTsLog4j:42 - User has successfully login into Mercury Tours application
+2019-04-20 15:13:26 ERROR MercurtTsLog4j:53 - User error message
+2019-04-20 15:13:26 WARN  MercurtTsLog4j:91 - delete all cookies
+2019-04-20 15:13:26 INFO  MercurtTsLog4j:104 - dbConnectionClosed
+2019-06-20 11:17:37 INFO  MercurtTsLog4j:113 - chrome browser open successfully
+2019-06-20 11:17:43 INFO  MercurtTsLog4j:98 - URL is entered successfully
+2019-06-20 11:17:45 INFO  MercurtTsLog4j:84 - maximizeBrowser is successfully 
+2019-06-20 11:18:33 INFO  MercurtTsLog4j:41 - User has successfully login into Mercury Tours application
+2019-06-20 11:18:33 DEBUG MercurtTsLog4j:42 - User has successfully login into Mercury Tours application
+2019-06-20 11:18:37 ERROR MercurtTsLog4j:53 - User error message
+2019-06-20 11:18:38 WARN  MercurtTsLog4j:91 - delete all cookies
+2019-06-20 11:18:38 INFO  MercurtTsLog4j:104 - dbConnectionClosed
