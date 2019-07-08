@@ -22,7 +22,7 @@ public class AutoITDemo
 	 // To maximize browser
 	 driver.manage().window().maximize();
 	   
-	 // page loaded
+	 // page loaded success
 	   driver.manage().timeouts().pageLoadTimeout(15,TimeUnit.SECONDS);
 	 
 	 // To click on upload button
