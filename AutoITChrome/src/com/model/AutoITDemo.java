@@ -20,6 +20,9 @@ public class AutoITDemo
 	
 	 // To maximize browser
 	 driver.manage().window().maximize();
+	   
+	 // page loaded
+	   driver.manage().timeouts().pageloaded(15,Timeunit.SECONDS);
 	 
 	 // To click on upload button
 	 driver.findElement(By.xpath("//input[@type='File']")).click();
